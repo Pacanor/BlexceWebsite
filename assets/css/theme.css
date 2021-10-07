@@ -882,7 +882,9 @@ textarea:focus:-ms-input-placeholder {
 
 p{text-align: justify;}
 
-.pc{text-align: center;}
+.pc{text-align: center;
+    margin-bottom: 15px;
+    line-height: 1.8;}
 
 /******************************* 
     2 - HEADER CSS STARTS 
