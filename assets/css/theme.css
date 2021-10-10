@@ -520,7 +520,7 @@ h2,h3,h4,h5,h6{
     padding: 10px;
     font-size: 14px;
     border-radius: 3px;
-    color: #ffffff;
+    color: black;
     text-transform: uppercase;
 
     transition: all 0.4s ease-in-out;    
@@ -530,6 +530,7 @@ h2,h3,h4,h5,h6{
 }
 .btn-1:hover, .btn-1:focus {
     background-color: #222222;
+    color:rgba(255, 255, 255, 0.95)
 }
 .btn-1.dark:hover, .btn-1.dark:focus {
     background-color: #c7c7c7;
@@ -1129,6 +1130,9 @@ p{text-align: justify;}
 }
 .banner-style2 {
     background-image: url(../img/background/zoom_corp.png);    
+}
+.banner-style3 {
+    background-image: url(../img/background/shake3.jpg);    
 }
 /*-------------------- 3.1 - Banner Ends -------------------- */
 
